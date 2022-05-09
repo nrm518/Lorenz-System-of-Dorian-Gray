@@ -3,7 +3,7 @@
 """
 Created on Sun Apr 24 14:12:07 2022
 
-@author: natmundorf
+@author: Sodium
 """
 #Questions:
         #Why does it stop working when some of the numbers get too high?
