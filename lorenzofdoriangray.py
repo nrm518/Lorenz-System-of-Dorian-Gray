@@ -3,12 +3,13 @@
 """
 Created on Sun Apr 24 14:12:07 2022
 
-@author: Sodium
+@author: nrm518
+
+Please credit me if you use this elsewhere, but otherwise feel free to go ham!
+This was my final project for the first programming class I took in college.
+
 """
-#Questions:
-        #Why does it stop working when some of the numbers get too high?
-    #modules used for making 3d plots find em!
-    #maybe add plural nouns
+#maybe add plural nouns
 #import packages
 import numpy as np #For arrays
 import matplotlib.pyplot as plt #For plotting
@@ -529,6 +530,7 @@ print(noun1)
 stirred amidst the trees of the garden, there came through
 the open door the heavy scent of the lilac, or the more delicate perfume
 of the pink-flowering thorn. """
+#feel free to add extra stuff and change up the sentence as you will! feel free to play with this
 
 
 print(art1)
