@@ -32,6 +32,7 @@ nts = 100000
 time = np.linspace(tmin, tmax,nts)
 
 #Constants for lorenz
+#Don't put negative numbers or imaginary numbers in here, but other than that go crazy.
 #Prandtl number (example number from brown webpage: 10)
 sigma = 10
 #Rayleigh number (example number from brown webpage: 28)
@@ -40,7 +41,8 @@ rho = 28
 beta = 8/3
 
 #initial conditions array [x initial, y initial, z initial]
-s_init = [1.,42000.,2.]
+#feel free to change these. negatives, whatever are fine here. still no imaginary numbers allowed though.
+s_init = [1.,2.,3.]
 
 
 #inputs to s_init:
